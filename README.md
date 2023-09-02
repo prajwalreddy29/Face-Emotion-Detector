@@ -1,4 +1,4 @@
-# WebCam-Face-Emotion-Detection-Streamlit
+# Face-Emotion-Detector
 Real time face detection streamlit based bew application for server deployment.
 webcam emotion detection project is a type of machine learning project that uses computer vision techniques to detect emotions from live video feeds captured by a webcam. The project typically involves training a model using a dataset of images or videos that have been labelled with different emotionss, such as happiness, sadness, anger, fear, surprise, or disgust.
 
